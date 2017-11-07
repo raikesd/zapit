@@ -1,2 +1,2 @@
 # zapit
-A python wrapper arround the OWASP ZAP intercepting proxy
+A python wrapper around the OWASP ZAP intercepting proxy
